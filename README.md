@@ -1,0 +1,4 @@
+# makeScatterChart
+Excelにグラフを出すのがめんどくさい
+ということでpythonで書いてみました
+
